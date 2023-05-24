@@ -1,5 +1,5 @@
 # CNN-python
-Training a simple CNN with single convolution, pooling and dense layer on the MNIST dataset
+Training a simple CNN with single convolution, pooling and dense layers on the MNIST dataset
 
 MNIST: train images -> 60000, 28x28x1
        | test images  -> 10000, 28x28x1
